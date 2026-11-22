@@ -1,3 +1,8 @@
+## Cara Menjalankan
+```bash
+npm install
+npm run dev
+```
 **Screenshoot Hasil Implementasi**
 
 
